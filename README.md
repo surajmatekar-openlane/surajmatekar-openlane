@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surajmatekar-openlane
+- 👋 Hi, I’m @surajmatekar
 - 👀 I’m interested in Azure cloud service, C#, .NET Core
 - 🌱 I’m currently learning AKS, Kubernetes
 - 📫 How to reach me surajmatekar@gmail.com
